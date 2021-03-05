@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-squaret&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat-square&logo=heroku)
