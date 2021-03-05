@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Ebaa.dev-25cfbb?style=flat-square)](https://Ebaa.dev)
 
-**This is the place where I save all the code I learnt from my cat!** 🐱‍💻
+**This is the place where I save all the code I learn from my cat!** 🐱‍💻
 
 *Currently working with:*
 
