@@ -1,0 +1,24 @@
+<h2> Hi, I'm Ebaa!  <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50"></h2>
+<img align='right' src="Images/Logo.png" width="200">
+
+[![Website](https://img.shields.io/badge/Website-Ebaa.dev-25cfbb?style=flat-square)](https://Ebaa.dev)
+
+**This is the place where I save all the code I learnt from my cat!** 🐱‍💻
+
+*Currently working with:*
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-squaret&logo=mongodb)
+
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCodevs](https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visual-studio-code)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EbaaCode&count_private=true&hide=prs,issues,contribs&show_icons=true&include_all_commits=true&theme=nord)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=.EbaaCode)
