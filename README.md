@@ -19,6 +19,8 @@
 ![VSCodevs](https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visual-studio-code)
 
 
+![Discord](https://img.shields.io/badge/Discord-Ebaa#0001-7289DA?style=flat-square&logo=discord)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EbaaCode&count_private=true&hide=prs,issues,contribs&show_icons=true&include_all_commits=true&theme=nord)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=.EbaaCode)
