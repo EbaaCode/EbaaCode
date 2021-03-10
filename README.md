@@ -3,6 +3,9 @@
 
 [![Website](https://img.shields.io/badge/Website-Ebaa.dev-25cfbb?style=flat-square)](https://Ebaa.dev)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B73WFJT)
+
+
 **This is the place where I save all the code I learn from my cat!** 🐱‍💻
 
 *Currently working with:*
