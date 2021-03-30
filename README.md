@@ -23,6 +23,7 @@
 
 
 ![Discord](https://img.shields.io/badge/Discord-Ebaa%230001-7289DA?style=flat-square&logo=discord)
+[![Discord](https://img.shields.io/badge/Discord-JOIN MY DISCORD!-7289DA?style=flat-square&logo=discord)](https://discord.gg/GeMa7KCDWV)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EbaaCode&count_private=true&include_all_commits=true&show_icons=true&theme=nord&hide=prs,issues,contribs)
 
