@@ -1,7 +1,7 @@
 
-## Hi, I'm Ebaa!  
-<img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50">
-<img align='right' src="Images/Logo.png" width="200">
+## Hi, I'm Ebaa!  <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50"> 
+<img align='right' src="Images/Logo.png" width="150">
+
 
 [![Website](https://img.shields.io/badge/Website-Ebaa.dev-25cfbb?style=flat-square&logo=Github)](https://Ebaa.dev)
 ![Discord](https://img.shields.io/badge/Discord-Server-7289DA?style=flat-square&logo=discord)
