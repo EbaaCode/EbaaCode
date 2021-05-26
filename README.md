@@ -1,14 +1,15 @@
 
-## Hi, I'm Ebaa!  <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50"> 
-<img align='right' src="Images/Logo.png" width="150">
+## Hi, I'm Ebaa!  
+<img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50"> 
+<img src="Images/Logo.png" width="150" align='right' style="vertical-align: middle">
 
 
 [![Website](https://img.shields.io/badge/Website-Ebaa.dev-25cfbb?style=flat-square&logo=Github)](https://Ebaa.dev)
-![Discord](https://img.shields.io/badge/Discord-Server-7289DA?style=flat-square&logo=discord)
+[![Discord](https://img.shields.io/badge/Discord-Server-7289DA?style=flat-square&logo=discord)](https://discord.gg/GeMa7KCDWV)
 [![ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi)](https://ko-fi.com/B0B73WFJT)
 
 
-**This is the place where I save all the code I learn from my cat!** 🐱‍💻
+This is the place where I save all the code I learn from my cat! 🐱‍💻
 
 ## Currently working with:
 
