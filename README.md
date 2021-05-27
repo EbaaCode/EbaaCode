@@ -28,6 +28,4 @@ This is the place where I save all the code I learn from my cat! 🐱‍💻
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EbaaCode&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide=prs,issues,contribs&hide_border=false&border_radius=0)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EbaaCode&theme=dark&background=161616&border=E5E3E3&stroke=E5E3E3&ring=DBDBDB&fire=7AFF95&currStreakNum=FEFEFE&currStreakLabel=FEFEFE&sideNums=FEFEFE&sideLabels=FEFEFE&dates=7AFF95)](https://git.io/streak-stats)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=.EbaaCode)
