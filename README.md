@@ -1,7 +1,7 @@
+<img src="Images/ReadMe_Banner.png">
 
-## Hi, I'm Ebaa!  
-<img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50"> 
-<img src="Images/Logo.png" width="150" align='right' style="vertical-align: middle">
+<!-- <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50">  -->
+<!-- <img src="Images/Logo.png" width="150" align='right' style="vertical-align: middle"> -->
 
 
 [![Website](https://img.shields.io/badge/Website-Ebaa.dev-25cfbb?style=flat-square&logo=Github)](https://Ebaa.dev)
