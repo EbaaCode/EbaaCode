@@ -5,6 +5,7 @@
 **Hey, Welcome to my profile!**\
 My name is Ebaa, and I'm a self-taught developer who constantly starts side projects that never get finished 🐱‍💻
 
+**Tools I use:**\
 ![VSCodes](https://img.shields.io/badge/-VSCode-22AFF5?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079C1?style=flat-square&logo=trello&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5764F4?style=flat-square&logo=Discord&logoColor=white)
