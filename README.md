@@ -19,13 +19,15 @@ My name is Ebaa, and I'm a self-taught developer who constantly starts side proj
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=notion&logoColor=white)
 
-#### Where to find me
+**Where to find me:**\
 [![Discord](https://img.shields.io/badge/Discord-5764F4?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/294546978925182977/)
 [![ko-fi](https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/B0B73WFJT)
 [![Website](https://img.shields.io/badge/Website-181717?&style=for-the-badge&logo=Slashdot&logoColor=white)](https://ebaa.dev/)
 [![Github](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/EbaaCode)
 [![Email](https://img.shields.io/badge/e‑mail-181717.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:EbaaHelp@outlook.com)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebaacode&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide=prs,issues,contribs&hide_border=false&border_radius=0) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebaacode&show_icons=true&locale=en&theme=dark&icon_color=27D0BC)
+
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=.EbaaCode&title=Views)
+
