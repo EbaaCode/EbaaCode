@@ -8,11 +8,13 @@ My name is Ebaa, and I'm a self-taught developer who constantly starts side proj
 **Tools I use:**\
 ![VSCodes](https://img.shields.io/badge/-VSCode-22AFF5?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079C1?style=flat-square&logo=trello&logoColor=white)
+![AfDesigner](https://img.shields.io/badge/-Affinity_Designer-217BF2?style=flat-square&logo=affinity-designer&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5764F4?style=flat-square&logo=Discord&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-7958A0?style=flat-square&logo=heroku&logoColor=white)
+![AfPhoto](https://img.shields.io/badge/-Affinity_Photo-7F4DD2?style=flat-square&logo=affinity-photo&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-7958A0?style=flat-square&logo=heroku&logoColor=white)\
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-F39205?style=flat-square&logo=MySQL&logoColor=white)\
+![MySQL](https://img.shields.io/badge/-MySQL-F39205?style=flat-square&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FFD847?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F8E542?style=flat-square&logo=javascript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
