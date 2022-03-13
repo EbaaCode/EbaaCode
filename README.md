@@ -1,11 +1,16 @@
-<img src="Images/ReadMe_Banner.png">
-<!-- <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="50">  -->
-<!-- <img src="Images/Logo.png" width="150" align='right' style="vertical-align: middle"> -->
+<p align="center">
+    <img src="Images/ReadMe_Banner.png" alt="Banner" />
+    <a href="https://discord.com/users/294546978925182977/"><img src="https://img.shields.io/badge/Discord-5764F4?&style=flat-square&logo=Discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://ko-fi.com/B0B73WFJT"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?&style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+    <a href="mailto:EbaaHelp@outlook.com"><img src="https://img.shields.io/badge/Email-181717.svg?style=flat-square&logo=GMail&logoColor=white" alt="Mail" /></a>
+    <a href="https://ebaa.dev/"><img src="https://img.shields.io/badge/Website-181717?&style=flat-square&logo=Slashdot&logoColor=white" alt="Website" /></a>
+</p>
+  
+Hey! welcome to my profile my name is Ebaa, and I'm an 18-year-old self-taught developer who constantly starts new side projects that never get finished, I want to build meaningful and fun projects to make people's lives a little bit better, I'm currently learning web app development and getting into the open source community, You can learn more about the tools I use and my latest projects here! 🐱‍💻
 
-**Hey, Welcome to my profile!**\
-My name is Ebaa, and I'm a self-taught developer who constantly starts side projects that never get finished 🐱‍💻
+#
 
-**Tools I use:**\
+#### Tools I use:
 ![VSCodes](https://img.shields.io/badge/-VSCode-22AFF5?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079C1?style=flat-square&logo=trello&logoColor=white)
 ![AfDesigner](https://img.shields.io/badge/-Affinity_Designer-217BF2?style=flat-square&logo=affinity-designer&logoColor=white)
@@ -21,16 +26,9 @@ My name is Ebaa, and I'm a self-taught developer who constantly starts side proj
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=notion&logoColor=white)
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebaacode&show_icons=true&locale=en&theme=rose_pine&icon_color=27D0BB&bg_color=ffffff00&text_color=2AC19E&hide_border=true)
 
-**Where to find me:**\
-[![Discord](https://img.shields.io/badge/Discord-5764F4?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/294546978925182977/)
-[![ko-fi](https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/B0B73WFJT)
-[![Website](https://img.shields.io/badge/Website-181717?&style=for-the-badge&logo=Slashdot&logoColor=white)](https://ebaa.dev/)
-[![Github](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/EbaaCode)
-[![Email](https://img.shields.io/badge/e‑mail-181717.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:EbaaHelp@outlook.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=.EbaaCode&left_color=black&right_color=black&left_text=Visitors)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebaacode&show_icons=true&locale=en&theme=dark&icon_color=27D0BC)
-
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=.EbaaCode&title=Views)
 
