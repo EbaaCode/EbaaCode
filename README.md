@@ -2,7 +2,7 @@
    <img src="images/README_Banner_2.png" alt="Banner" />
 </p>
 <h2>ᴀʙᴏᴜᴛ ᴍᴇ</h2>
-Hey! Welcome to my profile my name is Ebaa, and I'm an 18-year-old self-taught developer who constantly starts new side projects that never get finished, I want to build meaningful and fun projects to make people's lives a little bit easier, Currently learning web development and getting more involved in open-source software, You can learn more about the tools I use and my latest projects here 🐱‍💻
+Hey! Welcome to my profile my name is Ebaa, and I'm an 18-year-old self-taught developer who constantly starts new side projects that never get finished, I want to build meaningful and fun projects to make people's lives a little bit easier, Currently learning web development and getting more involved in open-source software, You can learn more about the tools I use and my projects here 🐱‍💻
 <h2>ᴛᴏᴏʟs ɪ ᴜsᴇ</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/-VSCode-27d0bb?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -28,10 +28,10 @@ Hey! Welcome to my profile my name is Ebaa, and I'm an 18-year-old self-taught d
 </p>
 <h2>sᴏᴄɪᴀʟs</h2>
 <p>
-   🌐 Check out my personal at <a href="https://ebaa.dev/">ebaa.dev</a>.<br>
-   💬 Contact me on <a href="https://discord.com/users/294546978925182977">Discord</a>.<br>
-   ☕ Support me on <a href="https://ko-fi.com/B0B73WFJT">Ko-Fi</a>.<br>
-   ✉ Send me an E-mail at <a href="mailto:me@ebaa.dev">me@ebaa.dev</a>.<br>
+   🌐 Check out my personal at <a href="https://ebaa.dev/" target="_blank">ebaa.dev</a>.<br>
+   💬 Contact me on <a href="https://discord.com/users/294546978925182977" target="_blank">Discord</a>.<br>
+   ☕ Support me on <a href="https://ko-fi.com/B0B73WFJT" target="_blank">Ko-Fi</a>.<br>
+   ✉ Send me an E-mail at <a href="mailto:me@ebaa.dev" target="_blank">me@ebaa.dev</a>.<br>
 </p>
 <p align="right">
    <img src="https://visitor-badge.laobi.icu/badge?page_id=.EbaaCode&left_color=black&right_color=black&left_text=Visitors" alt="Visitor counter" />
