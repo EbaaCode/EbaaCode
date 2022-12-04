@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Images/README_Banner_2.png" alt="Banner" />
+    <img src="images/README_Banner_2.png" alt="Banner" />
     <a href="https://discord.com/users/294546978925182977/"><img src="https://img.shields.io/badge/Discord-5764F4?&style=flat-square&logo=Discord&logoColor=white" alt="Discord" /></a>
     <a href="https://ko-fi.com/B0B73WFJT"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF5E5B?&style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
     <a href="mailto:EbaaHelp@outlook.com"><img src="https://img.shields.io/badge/Email-181717.svg?style=flat-square&logo=GMail&logoColor=white" alt="Mail" /></a>
