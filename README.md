@@ -28,7 +28,7 @@ Hey! Welcome to my profile my name is Ebaa, and I'm an 18-year-old self-taught d
 </p>
 <h2>sᴏᴄɪᴀʟs</h2>
 <p>
-   🌐 Check out my personal at <a href="https://ebaa.dev/" target="_blank">ebaa.dev</a>.<br>
+   🌐 Check out my personal website at <a href="https://ebaa.dev/" target="_blank">ebaa.dev</a>.<br>
    💬 Contact me on <a href="https://discord.com/users/294546978925182977" target="_blank">Discord</a>.<br>
    ☕ Support me on <a href="https://ko-fi.com/B0B73WFJT" target="_blank">Ko-Fi</a>.<br>
    ✉ Send me an E-mail at <a href="mailto:me@ebaa.dev" target="_blank">me@ebaa.dev</a>.<br>
