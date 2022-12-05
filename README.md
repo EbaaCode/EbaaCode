@@ -2,7 +2,14 @@
    <img src="images/README_Banner_2.png" alt="Banner" />
 </p>
 <h2>ᴀʙᴏᴜᴛ ᴍᴇ</h2>
+<p>
 Hello and welcome to my little corner of the internet! My name is Ebaa and I am an 18-year-old self-taught developer who loves to tinker with new ideas and projects. Although many of my ventures never quite reach completion, I am constantly seeking ways to make life just a little bit easier for others through the magic of technology. Right now, I am focusing on web development and delving into the world of open-source software. I hope you'll stick around and explore some of the tools and projects I am working on. Happy browsing! 🐱‍💻
+</p>
+<br>
+<p>
+I am always open to new opportunities and collaborations. If you have an interesting project or idea that you think I could contribute to, please don't hesitate to reach out to me. I am eager to work with others and learn from their experiences. You can find my contact information below. I look forward to hearing from you! 🤝
+</p>
+
 <h2>ᴛᴏᴏʟs ɪ ᴜsᴇ</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/-VSCode-27d0bb?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
