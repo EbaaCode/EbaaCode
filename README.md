@@ -26,7 +26,7 @@ I am always open to new opportunities and collaborations. If you have an interes
    <img src="https://img.shields.io/badge/-Git-65afe2?style=flat-square&logo=git&logoColor=white" alt="Git" />
    <img src="https://img.shields.io/badge/-GitHub-70ace0?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
    <img src="https://img.shields.io/badge/-Postman-79a9de?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-   <img src="https://img.shields.io/badge/-Notion-82a5da?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+   <img src="https://img.shields.io/badge/-Obsidian-82a5da?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
    <img src="https://img.shields.io/badge/-Trello-8ba2d6?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
    <img src="https://img.shields.io/badge/-Affinity_Designer-929ed2?style=flat-square&logo=affinity-designer&logoColor=white" alt="Affinity Designer" />
    <img src="https://img.shields.io/badge/-Affinity_Photo-989bcd?style=flat-square&logo=affinity-photo&logoColor=white" alt="Affinity Photo" />
