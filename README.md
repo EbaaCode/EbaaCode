@@ -3,7 +3,7 @@
 </p>
 <h2>ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 <p>
-Hey there, I'm Ebaa! 👋 an 19-year-old self-taught developer on a mission to make tech both useful and exciting!
+Hey there, I'm Ebaa! 👋 a 20-year-old self-taught developer on a mission to make tech both useful and exciting!
 </p>
 <p>
 I thrive when collaborating with others to bring ideas to life and learning from the process. Open-source software is where I'm currently diving deep, and I'm excited about the possibilities it offers.
