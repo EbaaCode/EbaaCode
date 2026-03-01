@@ -642,7 +642,9 @@
   </g>
 
   <!-- Glow behind asterisk -->
-  <g class="glow" filter="url(#blueGlow)">    <rect x="426" y="239" width="4" height="2" fill="#0000FF" />
+  <g filter="url(#blueGlow)">
+    <animate attributeName="opacity" values="0;0;1;0.3;0.5;0.25;0.25;0;0" keyTimes="0;0.12;0.14;0.19;0.24;0.29;0.92;0.98;1" dur="10s" repeatCount="indefinite" />
+    <rect x="426" y="239" width="4" height="2" fill="#0000FF" />
     <rect x="426" y="241" width="1" height="1" fill="#000000" />
     <rect x="427" y="241" width="2" height="9" fill="#0000FF" />
     <rect x="429" y="241" width="1" height="1" fill="#000000" />
@@ -671,7 +673,9 @@
   </g>
 
   <!-- Asterisk snaps in -->
-  <g class="asterisk">    <rect x="426" y="239" width="4" height="2" fill="#0000FF" />
+  <g transform-origin="428px 246px">
+    <animate attributeName="opacity" values="0;0;1;1;1;0;0" keyTimes="0;0.12;0.14;0.95;0.97;0.99;1" dur="10s" repeatCount="indefinite" />
+    <rect x="426" y="239" width="4" height="2" fill="#0000FF" />
     <rect x="426" y="241" width="1" height="1" fill="#000000" />
     <rect x="427" y="241" width="2" height="9" fill="#0000FF" />
     <rect x="429" y="241" width="1" height="1" fill="#000000" />
