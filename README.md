@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/gic-logo-light.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/gic-logo-dark.png">
-    <img alt="Good Internet Club" src="images/gic-logo-dark.png" width="500">
+    <source media="(prefers-color-scheme: dark)" srcset="images/gic-anim-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/gic-anim-light.svg">
+    <img alt="Good Internet Club *" src="images/gic-anim-light.svg" width="500">
   </picture>
 </p>
 
