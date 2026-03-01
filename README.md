@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/gic-anim-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/gic-anim-dark.svg">
-    <img alt="Good Internet Club *" src="images/gic-anim-dark.svg" width="500">
+    <img alt="Good Internet Club *" src="images/gic-anim-dark.svg" width="500" height="500">
   </picture>
 </p>
 
