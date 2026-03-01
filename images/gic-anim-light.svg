@@ -4,28 +4,32 @@
     <style>
       @keyframes snapIn {
         0%   { opacity: 0; transform: scale(0); }
-        50%  { opacity: 1; transform: scale(1.5); }
-        75%  { opacity: 1; transform: scale(0.9); }
-        100% { opacity: 1; transform: scale(1); }
+        1.5% { opacity: 1; transform: scale(1.5); }
+        2.25%{ opacity: 1; transform: scale(0.9); }
+        3%   { opacity: 1; transform: scale(1); }
+        95%  { opacity: 1; transform: scale(1); }
+        97%  { opacity: 0; transform: scale(0); }
+        100% { opacity: 0; transform: scale(0); }
       }
 
       @keyframes glowPulse {
         0%   { opacity: 0; }
-        25%  { opacity: 0.8; }
-        50%  { opacity: 0.2; }
-        75%  { opacity: 0.35; }
-        100% { opacity: 0.15; }
+        5%   { opacity: 0.8; }
+        10%  { opacity: 0.2; }
+        15%  { opacity: 0.35; }
+        20%  { opacity: 0.15; }
+        90%  { opacity: 0.15; }
+        95%  { opacity: 0; }
+        100% { opacity: 0; }
       }
 
       .asterisk {
-        opacity: 0;
         transform-origin: 428px 246px;
-        animation: snapIn 0.3s 1.2s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+        animation: snapIn 10s 1.2s cubic-bezier(0.34, 1.56, 0.64, 1) infinite;
       }
 
       .glow {
-        opacity: 0;
-        animation: glowPulse 2s 1.4s ease-in-out forwards;
+        animation: glowPulse 10s 1.4s ease-in-out infinite;
       }
     </style>
 
