@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="500" height="24" viewBox="0 0 500 24" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes sweep {
+      0%   { opacity: 0.35; }
+      25%  { opacity: 1; }
+      50%  { opacity: 0.35; }
+      100% { opacity: 0.35; }
+    }
+    .link {
+      font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
+      font-size: 12px;
+      letter-spacing: 0.5px;
+    }
+    .l1 { fill: #0000FF; animation: sweep 6s ease-in-out 0s infinite; }
+    .l2 { fill: #0000FF; animation: sweep 6s ease-in-out 2s infinite; }
+    .l3 { fill: #0000FF; animation: sweep 6s ease-in-out 4s infinite; }
+    .sep { fill: #0000FF; opacity: 0.15; }
+  </style>
+
+  <text class="link l1" x="120" y="16" text-anchor="middle">ebaa.md</text>
+  <text class="link sep" x="190" y="16" text-anchor="middle">/</text>
+  <text class="link l2" x="272" y="16" text-anchor="middle">good internet club</text>
+  <text class="link sep" x="370" y="16" text-anchor="middle">/</text>
+  <text class="link l3" x="420" y="16" text-anchor="middle">say hello</text>
+</svg>

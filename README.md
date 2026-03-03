@@ -17,3 +17,13 @@ thoughtful internet products for creators, communities, and businesses.
 </p>
 
 <br>
+
+<p align="center">
+  <a href="https://ebaa.md">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/links-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="images/links-dark.svg">
+      <img alt="ebaa.md / good internet club / say hello" src="images/links-dark.svg" width="450">
+    </picture>
+  </a>
+</p>
