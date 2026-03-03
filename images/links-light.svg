@@ -12,15 +12,15 @@
       font-size: 12px;
       letter-spacing: 0.5px;
     }
-    .l1 { fill: #24292f; animation: sweep 6s ease-in-out 0s infinite; }
-    .l2 { fill: #24292f; animation: sweep 6s ease-in-out 2s infinite; }
-    .l3 { fill: #24292f; animation: sweep 6s ease-in-out 4s infinite; }
-    .sep { fill: #24292f; opacity: 0.15; }
+    .l1 { fill: #DEDED8; animation: sweep 6s ease-in-out 0s infinite; }
+    .l2 { fill: #DEDED8; animation: sweep 6s ease-in-out 2s infinite; }
+    .l3 { fill: #DEDED8; animation: sweep 6s ease-in-out 4s infinite; }
+    .sep { fill: #DEDED8; opacity: 0.3; }
   </style>
 
-  <text class="link l1" x="120" y="16" text-anchor="middle">ebaa.md</text>
-  <text class="link sep" x="190" y="16" text-anchor="middle">/</text>
-  <text class="link l2" x="272" y="16" text-anchor="middle">good internet club</text>
-  <text class="link sep" x="370" y="16" text-anchor="middle">/</text>
-  <text class="link l3" x="420" y="16" text-anchor="middle">say hello</text>
+  <text class="link l1" x="100" y="16" text-anchor="middle">ebaa.md</text>
+  <text class="link sep" x="160" y="16" text-anchor="middle">/</text>
+  <text class="link l2" x="250" y="16" text-anchor="middle">good internet club</text>
+  <text class="link sep" x="340" y="16" text-anchor="middle">/</text>
+  <text class="link l3" x="400" y="16" text-anchor="middle">say hello</text>
 </svg>
