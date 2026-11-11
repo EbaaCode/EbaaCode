@@ -14,19 +14,7 @@ i also run good internet club. we make websites that could only be yours.
 <br>
 
 <p align="center">
-  <a href="https://ebaa.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/link-ebaa-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/link-ebaa-light.svg">
-    <img alt="ebaa.md" src="images/link-ebaa-light.svg" height="24">
-  </picture></a>
-  <a href="https://goodinternet.club"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/link-club-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/link-club-light.svg">
-    <img alt="good internet club" src="images/link-club-light.svg" height="24">
-  </picture></a>
-  <a href="mailto:hello@goodinternet.club"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/link-hello-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/link-hello-light.svg">
-    <img alt="say hello" src="images/link-hello-light.svg" height="24">
-  </picture></a>
+  <a href="https://ebaa.md"><picture><source media="(prefers-color-scheme: dark)" srcset="images/link-ebaa-dark.svg"><source media="(prefers-color-scheme: light)" srcset="images/link-ebaa-light.svg"><img alt="ebaa.md" src="images/link-ebaa-light.svg" height="24"></picture></a>
+  <a href="https://goodinternet.club"><picture><source media="(prefers-color-scheme: dark)" srcset="images/link-club-dark.svg"><source media="(prefers-color-scheme: light)" srcset="images/link-club-light.svg"><img alt="good internet club" src="images/link-club-light.svg" height="24"></picture></a>
+  <a href="mailto:hello@goodinternet.club"><picture><source media="(prefers-color-scheme: dark)" srcset="images/link-hello-dark.svg"><source media="(prefers-color-scheme: light)" srcset="images/link-hello-light.svg"><img alt="say hello" src="images/link-hello-light.svg" height="24"></picture></a>
 </p>
