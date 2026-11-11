@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/gic-portal-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/gic-portal-light.svg">
-    <img alt="A portal tears open in the page onto good internet club's corner shop at night, drawn in blue and white dots. The street is dark at first, then the shop's lights come on one by one: the street lamps, the windows, the blue sign on the corner, the string lights on the roof terrace. A car drives past and moths circle the lamps. oh hey, you're reading the alt text. respect. here's a fun fact: the entire Wikipedia database is only about 22 GB." src="images/gic-portal-light.svg" width="100%">
+    <img alt="A portal tears open in the page onto good internet club's corner shop at night, drawn in blue and white dots. The street is dark at first, then the shop's lights come on one by one: the street lamps, the windows, the blue sign on the corner, the string lights on the roof terrace. A car drives past and moths circle the lamps. oh hey, you're reading the alt text. respect. here's a fun fact: the entire Wikipedia database is only about 22 GB." src="images/gic-portal-light.svg" width="764">
   </picture>
 </p>
 
