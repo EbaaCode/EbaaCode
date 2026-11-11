@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="24" viewBox="0 0 83 24">
+  <style>
+    @keyframes sweep { 0% { opacity: 0.35; } 25% { opacity: 1.0; } 50%, 100% { opacity: 0.35; } }
+    text { font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace; font-size: 12px; letter-spacing: 0.5px; fill: #0000FF; }
+    .l { animation: sweep 6s ease-in-out 0s infinite; opacity: 0.35; }
+    .s { opacity: 0.25; }
+  </style>
+  <text class="l" x="2" y="16">ebaa.md</text>
+  <text class="s" x="73" y="16" text-anchor="middle">/</text>
+</svg>
